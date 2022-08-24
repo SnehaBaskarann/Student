@@ -1,0 +1,6 @@
+<html>
+<head>
+<title> Student database </title>
+</head>
+<h1> Hello Sneha </h1>
+</html>
